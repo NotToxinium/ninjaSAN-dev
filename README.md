@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img src="https://img.shields.io/twitter/follow/ninjasan_?logo=twitter&style=for-the-badge" alt="ninjasan_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [My Website](https://ninjasan.glitch.me) 
+- All of my projects are available at [My Website](https://ninjasan.glitch.me) 
+- Add Me On Discord? ninjaSAN#9005
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaSAN-dev&theme=radical&hide_langs_below=1&layout=compact" />
