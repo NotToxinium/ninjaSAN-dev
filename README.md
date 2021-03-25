@@ -3,4 +3,4 @@
 
 <p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img src="https://img.shields.io/twitter/follow/ninjasan_?logo=twitter&style=for-the-badge" alt="ninjasan_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://ninjasan.glitch.me](MyWebsite) 
+- 👨‍💻 All of my projects are available at [My Website](https://ninjasan.glitch.me) 
