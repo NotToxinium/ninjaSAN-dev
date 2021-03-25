@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://ninjasan.glitch.me) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjaSAN-dev&show_icons=true&locale=en&layout=compact" alt="ninjaSAN-dev" /></p> 
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaSAN-dev&theme=radical&hide_langs_below=1&layout=compact" />
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjaSAN-dev&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
