@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://ninjasan.glitch.me) 
 
-**Languages and Tools:** &nbsp;
- <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjaSAN-dev&show_icons=true&locale=en&layout=compact" alt="ninjaSAN-dev" /></p> 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaSAN-dev&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjaSAN-dev&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+</p>
