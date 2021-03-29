@@ -8,9 +8,9 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjaSAN-dev&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjaSAN-dev&show_icons=true&theme=white&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaSAN-dev&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaSAN-dev&theme=white&hide_langs_below=1&layout=compact" />
 </p>
