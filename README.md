@@ -14,7 +14,7 @@
 
 
 ------------
-<img src="https://img.shields.io/badge/-informational?logo=c%2B%2B&style=flat-square&logo=appveyor "/> <img src="https://img.shields.io/badge/-c++?style=flat-square&logo=c++&logoColor=white "/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white "/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white "/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white "/> <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white "/> <img src="https://img.shields.io/badge/python-v3.7-blue "/>
+<img src="https://img.shields.io/badge/-c++-informational?logo=c%2B%2B&style=flat-square&logo=appveyor "/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white "/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white "/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white "/> <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white "/> <img src="https://img.shields.io/badge/python-v3.7-blue "/>
 
 
 
