@@ -19,7 +19,7 @@
 
 
 ------------
-**My social accounts:**
+**My Social Accounts:**
 
 <p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p><p align="left"> <a href="https://dsc.gg/epic-empire" target="blank"><img alt="Discord" src="https://img.shields.io/badge/Join Us%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p><p align="left"> <a href="https://instagram.com/_ninjasan" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></p><p align="left"> <a href="https://m.youtube.com/channel/UCTFhTys_I2U4k1llyWR96Yg" target="blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
 
