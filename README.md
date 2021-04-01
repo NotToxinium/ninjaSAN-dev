@@ -2,7 +2,7 @@
 <h3 align="center">A video game & web devloper</h3>
 
 - All of my projects are available at [My Website](https://ninjasan.glitch.me) 
-- Add me on discord? ninjaSAN#9005
+- Add me on discord? [Click Here](https://discord.com/users/660677147303739413) 
  
 
 <p align="center">
