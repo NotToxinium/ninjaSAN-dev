@@ -3,7 +3,7 @@
 
 - All of my projects are available at [My Website](https://ninjasan.glitch.me) 
 - Add me on discord? ninjaSAN#9005
-
+ 
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjaSAN-dev&show_icons=true&theme=white&line_height=21" alt="Ohidur's github stats"/>
