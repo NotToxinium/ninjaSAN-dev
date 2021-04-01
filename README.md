@@ -2,7 +2,7 @@
 <h3 align="center">A video game & web devloper</h3>
 
 <p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img src="https://img.shields.io/twitter/follow/ninjasan_?logo=twitter&style=for-the-badge" alt="ninjasan_" /></a> </p>
-<img alt="Twitter" href="https://twitter.com/ninjasan_" src="https://img.shields.io/badge/ninjaSAN%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/ninjaSAN%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 
 - All of my projects are available at [My Website](https://ninjasan.glitch.me) 
 - Add me on discord? ninjaSAN#9005
