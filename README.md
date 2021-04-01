@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ninjaSAN</h1>
 <h3 align="center">A video game & web devloper</h3>
 
-<p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img src="https://img.shields.io/twitter/follow/ninjasan_?logo=twitter&style=for-the-badge" alt="ninjasan_" /></a> </p>
 <p align="left"> <a href="https://twitter.com/ninjasan_" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/ninjaSAN%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 
 - All of my projects are available at [My Website](https://ninjasan.glitch.me) 
@@ -15,7 +14,6 @@
 
 
 ------------
-<img src="https://img.shields.io/badge/-c++-informational?logo=c%2B%2B&style=flat-square "/> <img src="https://img.shields.io/badge/-c#-black?logo=c%2B%2B&style=flat-square "/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white "/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white "/> <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white "/> <img src="https://img.shields.io/badge/python-v3.7-blue "/>
 
 
 
