@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ninjaSAN</h1>
 <h3 align="center">A video game & web devloper</h3>
 
-- All of my projects are available at [My Website](https://ninjasan.glitch.me) 
+- All of my projects are available at [My Website](https://dev.ninjasan.repl.co) 
 - Add me on discord? [Click Here](https://discord.com/users/660677147303739413) 
  
 
